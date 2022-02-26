@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Hardik Singhal
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
-  Email: 308hardik@gmail.com, LinkedIn
+- 👀 I’m interested in Software Development and Frontend
+- 🌱 I’m currently learning Nodejs
+- 📫 How to reach me: 
+  Email: 308hardik@gmail.com, LinkedIn: www.linkedin.com/in/hardiksinghal30
 
 <!---
 hardik3008/hardik3008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
