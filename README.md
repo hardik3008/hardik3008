@@ -1,13 +1,10 @@
 - 👋 Hi, I’m Hardik Singhal
-- 👀 I’m interested in Software Development and Frontend
-- 🌱 I’m currently learning Nodejs
+- 👀 I’m interested in Software Development
 - 📫 How to reach me: 
-  Email: 308hardik@gmail.com, LinkedIn: www.linkedin.com/in/hardiksinghal30
-
-<!---
-hardik3008/hardik3008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  Email: 308hardik@gmail.com <br/>
+  LinkedIn: www.linkedin.com/in/hardiksinghal30
+  <br/>
+- 💻 Languages and Tools: &nbsp; <B>C++<B/> &nbsp; <B>HTML/CSS<B/> &nbsp; <B>Javascript<B/> &nbsp; <B>React<B/>
 
 <br/>
 
