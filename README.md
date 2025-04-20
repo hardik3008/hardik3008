@@ -4,7 +4,7 @@
   Email: 308hardik@gmail.com <br/>
   LinkedIn: www.linkedin.com/in/hardiksinghal30
   <br/>
-- 💻 Languages and Tools: &nbsp; <B>C++<B/> &nbsp; <B>HTML/CSS<B/> &nbsp; <B>Javascript<B/> &nbsp; <B>React<B/>
+- 💻 Languages and Tools: &nbsp; <B>Java<B/> &nbsp; <B>Spring boot<B/> &nbsp; <B>Angular<B/> &nbsp; <B>PostgreSQL<B/>
 
 <br/>
 
